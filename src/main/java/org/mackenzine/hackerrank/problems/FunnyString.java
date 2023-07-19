@@ -1,4 +1,4 @@
-package org.mackenzine;
+package org.mackenzine.hackerrank.problems;
 
 import java.util.Scanner;
 

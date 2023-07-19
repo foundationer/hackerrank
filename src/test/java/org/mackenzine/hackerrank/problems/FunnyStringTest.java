@@ -1,6 +1,7 @@
-package org.mackenzine;
+package org.mackenzine.hackerrank.problems;
 
 import org.junit.jupiter.api.Test;
+import org.mackenzine.hackerrank.problems.FunnyString;
 
 import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;
