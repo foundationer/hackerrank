@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Java template
 # Compiled class file
 *.class
@@ -122,3 +123,10 @@ fabric.properties
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
 
+=======
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+>>>>>>> 531df1dccfc37720b1fd025aecc9e30d05091549
