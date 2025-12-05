@@ -15,7 +15,7 @@ public class MinMaxSum {
 
     static class Result {
 
-        static private Logger LOGGER = LoggerFactory.getLogger(Result.class);
+        static private final Logger LOGGER = LoggerFactory.getLogger(Result.class);
 
         public static void miniMaxSum(List<Integer> arr) {
             if (arr.size() == 5) {
